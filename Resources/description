@@ -1,5 +1,22 @@
-##The resouces which could be reffered.
+The resouces which could be reffered.
 
-**1. Python API**
+1. Python API
+
+(1) data process
+
+https://pandas.pydata.org/docs/
+
+https://numpy.org/
+
+(2) Geographic information acquisition
+
+https://geopy.readthedocs.io/en/stable/
+
+(3) Visualization 
+
+https://plotly.com/python/
+
+https://pyecharts.org/#/zh-cn/intro
+
 
 
